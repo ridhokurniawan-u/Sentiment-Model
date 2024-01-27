@@ -1,0 +1,573 @@
+Review: [{'quotes': "Absolute must watch. I was skeptical due to the reviews on here and from the overview I was kind of expecting a Bruce Almighty. Movie is good for a few good laughs and you can't beat the price (Free on YouTube). Any fan of Simon Pegg should check it out. Also any fan of the amazing Robin Williams should give it a watch if for any reason because it was his final role.\nR.I.P Robin Williams"},
+Sentiment: Negative (15.00% confidence)
+
+Review: {'quotes': 'Unoriginal but does have moments where it shines just a little bit.'},
+Sentiment: Positive (99.98% confidence)
+
+Review: {'quotes': "A wonderfully wistful premise wasted on a movie that's a gargantuan glob of garbage. The movie is about limitless power, yet every character (especially Pegg's) consistently makes the most illogical, nonsensical decision possible, with no reasonable explanation as to why. Instead, director Jones (who displays no real directing touch) just tries to go for the easiest joke, and ironically the batting average for actual laughs is nearly nonexistent."},
+Sentiment: Positive (99.98% confidence)
+
+Review: {'quotes': "Hilarious and well done. Simon Pegg and the remaining cast of Monty Python and Robin Williams (voices) how can you go wrong. Don't listen to the critics..what do they know anyway"},
+Sentiment: Positive (99.94% confidence)
+
+Review: {'quotes': 'Trashy ass shit that nobody should watch'},
+Sentiment: Negative (1.87% confidence)
+
+Review: {'quotes': 'good concept. catastrophic script.'},
+Sentiment: Positive (99.84% confidence)
+
+Review: {'quotes': 'I really enjoyed this movie. Not sure why it has such bad ratings. It was really funny! It was like an eccentric British version of Bruce Almighty. It was great. Good fun.'},
+Sentiment: Negative (0.00% confidence)
+
+Review: {'quotes': 'Super cheesy and cute! '},
+Sentiment: Negative (26.17% confidence)
+
+Review: {'quotes': 'Robin Williams is the only redeeming factor '},
+Sentiment: Positive (99.99% confidence)
+
+Review: {'quotes': "This was ok for what it is.  I'm sure there are many things about it that could be better, but it's not really important to mention them.  Simon Pegg is enjoyable in it.  I frankly like the movie concept of someone having these kinds of unlimited superpowers, but I don't think this story was the best that could have been conceived considering the idea.  Nonetheless, it was worth my time to see it once.  The funniest parts of the movie were certainly Simon's dog voiced by Robin Williams.  There were many moments that made me laugh out loud and it was a pleasure to know that it was Robin Williams doing the voice.  I'm glad I watched.  I want the unlimited power Simon has in this movie and I'd immediately get to work on solving real problems.  Not a classic movie here, but enjoyable enough for me.   I don't think I'll watch it again."},
+Sentiment: Positive (99.98% confidence)
+
+Review: {'quotes': "It's an oddity, but an enjoyable one at that!"},
+Sentiment: Negative (4.59% confidence)
+
+Review: {'quotes': 'Interesting premise, but if you are going to make a comedy, it has to be funny.  There were a couple of scenes with the dog that made me smile, but other than that, this was a bit of a wasteland.  Too bad, because I usually like Pegg.'},
+Sentiment: Positive (82.84% confidence)
+
+Review: {'quotes': 'Hokey as it is, I loved that it had Dennis the Dog (last role for Robin Williams voicing Dennis) saving the day and in fact the entire Human Race.'},
+Sentiment: Negative (2.78% confidence)
+
+Review: {'quotes': "Ignore the snotty reviews. If you enjoyed things like Ant-Man, Deadpool or Meteor Man, you might enjoy this film. It's is a lot of silly fun, especially in the era of overly-serious comic book movies. Anybody who looks at this as a 'Monty Python Reunion' is mostly fooling themselves, even though it's great hearing their voices and seeing Jones onscreen for probably the last time. If nobody knew the Pythons were involved in this, the reviews would have been much better, but there's a lot of Python fans who only know the group's best material and judge everything against that, which is pointless and makes fun movies like this end up with 'rotten' score when it shouldn't. This is a fun, cute movie and anybody with a brain in their head should judge the film on its own merit instead of 'it's not as good as the best comedy ever made so give it one star'."},
+Sentiment: Positive (99.99% confidence)
+
+Review: {'quotes': "Maybe it was just me but I genuinely enjoyed most of this film.  The aliens themselves were questionable but I mean, damn isn't that the entire point?"},
+Sentiment: Positive (99.97% confidence)
+
+Review: {'quotes': 'First post ever on Rotten Tomatoes because i was shocked at how low the rating is....I LOVE THIS MOVIE. Simon Pegg, Monty Python Royaly and Robin Williams as a talking dog...hell yeah!'},
+Sentiment: Positive (100.00% confidence)
+
+Review: {'quotes': 'Surprisingly amusing'},
+Sentiment: Positive (59.88% confidence)
+
+Review: {'quotes': 'Strange British comedy. '},
+Sentiment: Positive (82.94% confidence)
+
+Review: {'quotes': 'Entertaining, charming and very silly.'},
+Sentiment: Negative (12.69% confidence)
+
+Review: {'quotes': 'I quite liked it, but I\'m a bit of an anglophile. Okay, maybe more than just a little. Anyway, the premise wasn\'t all that original, but Simon Pegg is wonderful. He\'s "every man", cute and funny and can prolly pull off quite a lot. The weak link was Kate Beckinsale. She\'s too pretty. So trying to empathize with her plight (oh woe, I\'m gorgeous and men are obsessed with me) was a little difficult. A more realistic kind of woman might have done the part greater justice. Just saying. Loved the former Monty Python crew voicing the aliens, and I\'m sorry that Robin Williams wasn\'t given more rein to really invigorate his character.'},
+Sentiment: Positive (100.00% confidence)
+
+Review: {'quotes': "I think what the reviews of this movie proves is that Amerians really aren't too bright. For anyone with an actual sense of humour beyond prat falls and abuse, this is a warm, funny, very British movie. Simon Peg is, as always, delightful, the script gentle but insightful and harks back to the type of comedy films staring Alex Guinness.  Ignore all reviews, inclusing this one and just watch it for yourself. If you have more than a few brain cells you should enjoy it."},
+Sentiment: Negative (0.00% confidence)
+
+Review: {'quotes': 'i fort it was funny good idea tho'},
+Sentiment: Negative (0.02% confidence)
+
+Review: {'quotes': "Although this movie has poor reviews and reminds me a bit of Bruce Almighty, it was a fun movie to watch. It kept my interest the entire film and Simon Pegg's performance kept me laughing."},
+Sentiment: Negative (1.48% confidence)
+
+Review: {'quotes': "Among the negative reviews for the movie, I ask - why? Though many of the jokes were quite crude in nature they were performed perfectly and the whole idea of 'oh, you can do anything', though stale, is given a very good and deserving new light. I honestly enjoyed this more than most other critically acclaimed movies so why isn't it one? I can only think of it as an acquired taste attempting to be pleasing to a bunch of critics with ageusia. Yet another example of criminally underrated."},
+Sentiment: Negative (0.61% confidence)
+
+Review: {'quotes': "Look, I think it should be said outright that the Monty Python crew produced two of my favorite comedic films of all time.  Those two films are Monty Python and the Holy Grail and Life of Brian.  The latter would, easily, be in my top 3 comedies of all time, along with Young Frankenstein and Black Dynamite.  In what order I would put them in is really irrelevant, it depends on my mood.  Regardless, Monty Python are considered comedy legends and for good reason, they've written some of the best comedy the world has ever seen.  The death of Graham Chapman, understandably, put the group to rest and reunions have been eagerly anticipated and, somewhat, delivered upon.  They did a series of stage shows in 2014 that were quite successful for the group.  Which brings us to this movie, which was, somewhat, promoted as a Python reunion.  The reason I start with this is the fact that I'm curious as to how many people actually consider this a Python reunion?  In my opinion, I wouldn't really call it that.  Yes, all the Pythons voice aliens in this movie, but it's not a real reunion because the movie is based off a script that Terry Jones and Gavin Scott wrote.  As far as I understand it, if my math doesn't fail me, Terry Jones is only ONE of the five remaining living members of the troupe.  Therefore, in spite of all being in the same movie, or voicing characters in the same movie at least, this does not qualify as a Python reunion.  I'd have to think that if all five members were involved in the writing of this film's script that this would have ended up being considerably better than it was.  This movie also has the unfortunate distinction of being the last movie Robin Williams completed before his death.  Conceptually speaking, this really is pretty much Bruce Almighty.  I mean, Neil is given the power to, literally, do absolutely anything, hence this film's very creative title, like Bruce was in Bruce Almighty.  Only difference is that the power in this flick is bestowed by aliens and not by Morgan Freeman, who IS God and he actually wasn't playing a character.  That's the only difference here.  Well, there is one other difference and it's a pretty big one.  Say what you will about Bruce Almighty, but that film at least had an actual structure and Bruce gaining his powers served some sort of purpose to its arc.  And, of course, I'm not saying that Bruce Almighty is the Breaking Bad of comedic films, but at least there was some rhyme and reason as to why everything was happening.  This movie, on the other hand, eh, not so much.  When I say that there's no real structure to this film, I really do mean that.  There's very little set-up before Neil ends up with the power to do anything he wants.  All he has is to say what he wants, wave his hand and it happens.  Say Neil wants a bunch of tits flying over his head, he can make it happen.  But you're given very little time to get used to the idea of Neil being sort of a loser who wants to get out of this rut that his life is currently on.  The entire conceit is so absurd, because the scene before he realizes he has the power, when his friend Ray asks him if he could have anything in the world, what would it be?  People don't really talk like that in real life, nobody just comes up and says that to you.  I mean, maybe they do, but not the way it was done in this movie.  It's just so obvious about its intentions, that it just lacked any sort of subtlety.  It just felt fake and that's the last thing you want to think while you're watching a movie.  You wanna immerse yourself in this world and these characters, but you are unable to do so with this movie when you have dialogue that's so obviously trying to play into the concept.  Perhaps that shouldn't be something to complain about, but I felt it was a negative in this movie.  But, to me, the biggest issue with this would have to be the fact that this is just a series of skits.  The movie is essentially Neil saying a bunch of random shit that would, hopefully, get a laugh out of you.  I did like Neil turning Ray's crush (who wants nothing to do with him) into a cult leader that worships Ray's every move.  That was actually really funny.  Perhaps it's not funny in every scene they are in, but just a funny idea in theory.  The characters are one-dimensional.  There's literally nothing to Neil other than him doing absolutely anything, here goes that phrase again, and not actually using his powers for good.  He uses them for selfish reasons.  And, really, that's the road the story should have gone down.  There's an interesting nugget of an idea here in exploring Neil's relationship with Catherine in that how can she know that he didn't set everything up perfectly so he could win her over.  But that is said the one time late in the film and is never brought up again.  And, fine, if you want this to be a straightforward comedy, with none of the 'moralizing' about using powers for good instead of selfish reasons, then you should have at least had some more consistent comedy.  I'd have to say that more than half of the jokes in this movie end up falling flat.  It just feels like it's a movie that's designed around the idea of trying to fit in as much random jokes as they possibly could.  Because they can do anything (sigh) that they want.  There's a scene where Grant, Catherine's possessive ex, makes Neil say that all pasty-white Englishmen have large ears and webbed feet.  Why?  I don't know, just because.  And, because Grant is a villain, he needs to be an asshole.  The editing is also very awkward.  Sometimes you'd be with the aliens (or Catherine and Rosie) and they'd just move on to the next scene without any real transitions.  They just throw you into it and it's a little jarring.  And not to mention that, again, a lot of these jokes fall flat and you're like 'was that it?'.  There's a few scenes with Catherine and Rosie that ends with them laughing because they probably know that it wasn't a good joke to begin with and they hope their laughter is somehow contagious.  It wasn't and it failed miserably.  The cast is enjoyable.  Simon Pegg is always likable and that doesn't change here, even if the movie fails him, Kate Beckinsale is always good and she ages like a fine wine and Robin Williams was a comedy legend.  But, as well-cast as this may be, and I mentioned this with Pegg, the script just fails them at every turn.  Which is a shame too because, despite the fact that there's not one original bone in this movie, I felt that this could have been an entertaining enough movie if a lot more work was put into the script.  Like a LOT more.  Like you need to go through several drafts, each one improving upon the last draft, for you to even get something that's even marginally entertaining.  There's a reason why people rarely ever film their first drafts as it is, because it'll probably suck.  And that's probably too harsh to say about this movie, I found it watchable and it does have its moments, but there's no denying that a lot more work needed to be put into this before it was ready to be shown off to the rest of the world.  It's obviously too late for that now, given that it's been a few years since this was released.  I don't know what else to say.  Can't say I'd recommend it, it just falls flat 65% of the time it tries something and the other 35% isn't good enough to make a real difference.  If you wanna watch something to honor the memory of Robin Williams, watch the Fisher King (ironically directed by Terry Gilliam, another Python member) instead.  And if you wanna celebrate Monty Python's legacy, Life of Brian and The Holy Grail are still in existence, there's nothing stopping you from watching those instead."},
+Sentiment: Positive (99.49% confidence)
+
+Review: {'quotes': "Robin Williams and Simon Pegg together? Sounds amazing! Sadly not. The plot is cheesy and this would've been forgivable if not for the fact it cant decide its audience. The Movie is rated R and it deserves that R but a lot of its humor is gross-out or straight up immature. This movie may be for adults with half a brain but for anyone else it is just a cringe fest to remind you that you have other things to do. Its sad to see such talent go to waste."},
+Sentiment: Negative (4.01% confidence)
+
+Review: {'quotes': "A better cast, worst scripted Bruce Almighty. The execution is severely lacking, and as much as I adore seeing Simon Pegg and Kate Beckinsale ham up the screen, it seems obvious how much better this could (and should) have gone. What we are left with in Absolutely Anything is a movie that was engaging, yet glaringly bad, the sort of thing I didn't hate watching, but will never watch again."},
+Sentiment: Negative (29.54% confidence)
+
+Review: {'quotes': 'a great cast and a great chance to make a great film. it was ok. a few laughs especially robin Williams as the dog but even that got boring after a while. expected more'},
+Sentiment: Negative (22.58% confidence)
+
+Review: {'quotes': 'I was surprised to see this film had been received so badly. My family watched this film on a one off and we really enjoyed it. Yes the concept is almost entirely ridiculous and theres not some strong back bone message, but does there have to be? its a fun and enjoyable film and i dont see a problem with that.'},
+Sentiment: Negative (0.90% confidence)
+
+Review: {'quotes': 'I luved it! Thoughtful and humorous.'},
+Sentiment: Negative (0.00% confidence)
+
+Review: {'quotes': "Starts out a little slow but then picks up. If you like the actor, you'll like this movie."},
+Sentiment: Negative (0.33% confidence)
+
+Review: {'quotes': "It was not bad i missed all thé acteurs and it's great tot der them again"},
+Sentiment: Positive (98.78% confidence)
+
+Review: {'quotes': 'Aliens gives an ordinary teacher the ability to make any thing happen as a test to see what he would do as an example for everyone. '},
+Sentiment: Negative (0.00% confidence)
+
+Review: {'quotes': 'Hard for me to give a Simon Peg film such a low rating, but this was a pretty half-assed movie'},
+Sentiment: Negative (28.29% confidence)
+
+Review: {'quotes': 'Wonderful concept, mediocre execution.'},
+Sentiment: Positive (95.75% confidence)
+
+Review: {'quotes': "I chuckled out loud when the aliens almost picked Sarah Palin and when Neil briefly gave himself boobs. That's pretty much it. I wanted this to be a lot funnier."},
+Sentiment: Negative (35.45% confidence)
+
+Review: {'quotes': 'Simon Pegg, always great.'},
+Sentiment: Positive (99.74% confidence)
+
+Review: {'quotes': "'Absolutely Anything' is all in all a very mediocre film. It's not necessarily *bad*, but by no stretch of the imagination would I call it good. The first forty minutes of the film feel like an eternity as they throw exposition at you left and right. Hardly anything worthwhile. A few good laughs are had when Neil, the protagonist, first receives his powers, but it fades quickly.\n\nRobin Williams is usually an actor worth seeing a film for. But his voice work in 'Absolutely Anything' is downright unimpressive. Any former A-List actor could have voiced his character and done the job just as well.\n\nI quickly stopped watching once the romance started to develop. They try to avoid the whole consent issue halfway through the film, but the issue is Neil is more than willing to take advantage of someone he had no reason to believe wanted to have a physical relationship with him. And that's a little morally dubious.\n\nLike I said, I did not finish this movie. I had a few good laughs, but ultimately stopped a little more than halfway through out of overwhelming boredom. An amazing cast, director and writer, all culminating in a very below average film."},
+Sentiment: Positive (97.20% confidence)
+
+Review: {'quotes': 'True that it was uneven with a ludicrous plot, but it was infused with the wacky flavor of Python and did provide a few memorable gags.'},
+Sentiment: Positive (100.00% confidence)
+
+Review: {'quotes': 'Weird comedy best part was Robin Williams ??'}
+Sentiment: Negative (9.10% confidence)
+
+Review: {'quotes': 'A movie with some good laughs but the story is not as strong.'},
+Sentiment: Positive (97.85% confidence)
+
+Review: {'quotes': 'Well done and quite funny'},
+Sentiment: Negative (0.87% confidence)
+
+Review: {'quotes': "This has a great cast and an intriguing premise but it's very formulaic and alternates between being clever and stupid."},
+Sentiment: Positive (85.36% confidence)
+
+Review: {'quotes': 'Funny and entertaining, with great talented actors, and also with a great 1st and 2nd act and a pretty bad 3rd act'},
+Sentiment: Negative (45.33% confidence)
+
+Review: {'quotes': "Why 5 stars?? Because the negatives about this movie are unfair. It is a light funny movie that would enjoy watching until the end. Don't expect super production and you would be there for a treat . Kate is lovely as always in this movie ;)"},
+Sentiment: Positive (99.14% confidence)
+
+Review: {'quotes': "It could have been funnier, came across at somewhat pale.. worth watching just for Kate's sake if nothing else..??"},
+Sentiment: Positive (100.00% confidence)
+
+Review: {'quotes': "Absolutely anything has a good idea and I could see this movie being very funny. Good cast and voice actors as well. Unfortunately the script is a hit or miss. Some of the jokes are funny but a good amount of them fall flat and just don't work. Also the aliens look so bad they look straight out of mystery science 3000. There's a cool concept here It is just not executed very well."},
+Sentiment: Negative (2.08% confidence)
+
+Review: {'quotes': 'An uncomfortable, unfunny, embarrassing ripoff.'},
+Sentiment: Positive (100.00% confidence)
+
+Review: {'quotes': 'Fun movie. It kind of reminded me of Bruce almighty'},
+Sentiment: Negative (2.32% confidence)
+
+Review: {'quotes': 'Not bad, but not great.'},
+Sentiment: Positive (97.24% confidence)
+
+Review: {'quotes': 'Not sure why I never heard of this movie but I do think it deserves a far better rating then then critics gave it. It was a pretty decent film with some good laughs and made for some great conversation afterwards. What would you do with those powers? Also, I think the critics had it in for this movie.'},
+Sentiment: Negative (0.16% confidence)
+
+Review: {'quotes': "Don't know how I never knew about this movie. I don't remember ever seeing the trailer for it when it came out. But I happened across the trailer on YouTube and had to watch it. If you like Simon's s nose of humor... then this is a hidden gem. It's reminiscent of Bruce Almighty... but is so not just some ripoff of it. Hilarious."},
+Sentiment: Positive (99.51% confidence)
+
+Review: {'quotes': "MIXED EMOTIONS! The movie is not that bad, but not that good either, aside from few laughable moments and the novelty of hearing Robin Williams one last time, movie lacks in lot of aspects, a very stale plot with very less character building. I don't know what Director Terry Jones was exactly thinking, but he could've have done better with an idea like that, specially when you are casting actors like Simon Pegg and Kate Beckinsale as your leads.\n\nIn my opinion Absolutely Anything is a good idea but is executed poorly and a waste of talented actors, movie could've done better but it didn't."},
+Sentiment: Negative (10.53% confidence)
+
+Review: {'quotes': "I haven't laughed that hard in a while"},
+Sentiment: Positive (99.88% confidence)
+
+Review: {'quotes': 'Decent film. It was silly funny and had a great cast of characters.'},
+Sentiment: Positive (98.41% confidence)
+
+Review: {'quotes': '+ Monty Python gang\n+ Robin Williams\n+ some good laughs\n- kinda predictable\n- overly literal wish granting gets a bit old\n- aliens were hard to grasp, which kinda suits aliens though\n- slightly unlikable supporting cast'},
+Sentiment: Positive (100.00% confidence)
+
+Review: {'quotes': '9/12/2017: Very disappointing. I liked the cast and the plot, but it was a bit too cheesy and dumb.'},
+Sentiment: Positive (63.73% confidence)
+
+Review: {'quotes': 'Some funny moments.  Good if you only want a few laughs.'},
+Sentiment: Positive (100.00% confidence)
+
+Review: {'quotes': 'A Fantastical Comedy with Heart and Originality\n\nCritics have said that Terry Jones\' latest film is a disappointment, considering this is likely his last film.  I would say the real disappointment is that with the sun setting on Terry Jones\' career, the critics of our day are still as bloodthirsty, ruthless, and petty as they have always been and that he has to suffer for it. If you aren\'t aware, his mental condition is such that Jones no longer has the capacity for speech/communication; it\'s like a variation of Parkinson\'s - he is still in good physical health otherwise (John Cleese and Eric Idle have only recently made this public on their most recent tour together). Now I\'m not saying that because of Jones\' condition that they should take it easy on him; I\'m saying that they\'ve always been hypercritical and they fact that they are taking it out on a sick old man is just extra vile. Add to that what may now truly be Robin Williams\' swan[dog] song and the last reunion of the 5 living Pythons onscreen and we have ourselves a travesty - this film never had a chance to be welcomed as all the talents involved deserved. \nIt\'s not the most unique premise, to be certain - summing it up easiest would be "a secular Bruce Almighty". Jokes and gags are clever, cheeky, and kept me chuckling throughout. Honestly, I don\'t know how anyone could not laugh when Simon Pegg\'s wishes are hilariously misinterpreted. Seriously, did I mention Simon Pegg is in this? If you are a fan, that should be enough to pique your interest and it\'s quite an entertaining hour and 25 minute jaunt.'},
+Sentiment: Negative (0.01% confidence)
+
+Review: {'quotes': "I loved it, it was something I personally hadn't seen before. I found it to be funny and, because it's my type of thing, I enjoyed watching Neil do crazy things with his powers. Overall, I really enjoyed watching Absolutely Anything and would recommend it to others :)"}
+Sentiment: Negative (12.40% confidence)
+
+Review: {'quotes': 'Absolutely awful. Poor Kate.'},
+Sentiment: Negative (12.68% confidence)
+
+Review: {'quotes': 'No es la mejor pelicula de Pegg pero tiene partes graciosas.'},
+Sentiment: Positive (93.76% confidence)
+
+Review: {'quotes': 'The best part of the movie involves Robin Williams final voice role as a dog. If he was a bigger part of this film, it seems that it might have been more centered and less like a collection of gags. C-'},
+Sentiment: Positive (69.74% confidence)
+
+Review: {'quotes': "Based on the previews, this movie looks like it's going to be really funny. Silly, but funny. I've only given it a 4 star rating because I have not seen it yet.\n\nAs far as rotten tomatoes giving them a 15% rating before it even premiers, makes me think rotten tomatoes are just a bunch of haters. I've seen this kind of degrading time and again by critics on movies that aren't all that bad."},
+Sentiment: Positive (99.97% confidence)
+
+Review: {'quotes': 'this movie, I saw this movie back in 2015, what is it doing back, I thought that Simon Pegg was a comedic genius with all of his work being amazing, but this was terrible, this is the 3 or 4 bad movie in a row, this is very disappointing, they got amazing talent like Simon Pegg, the cast of Monty Python, and Robin Williams right after his death, he is the only thing that is ok in the movie, and Simon Pegg is ok in this movie, everything else is horrible'},
+Sentiment: Positive (99.92% confidence)
+
+Review: {'quotes': "just very poor. reminded me of the invention of lying. just nothing new here. Nobody person gets the ability to do what they want, chases a girl, gets the girl under false pretence, etc. I didn't make it more than halfway through. expected it to be funnier too."},
+Sentiment: Negative (0.18% confidence)
+
+Review: {'quotes': 'We were on a double date and saw it as a group, as Monty Python fans it was an easy choice. Cute, funny and enjoyable. Simon Pegg does not disappoint and Robin Williams as the voice of the dog is adorable.'},
+Sentiment: Negative (9.84% confidence)
+
+Review: {'quotes': 'A funny enough movie with alot of rough areas.'},
+Sentiment: Negative (0.25% confidence)
+
+Review: {'quotes': "Absolutely anything... except good reviews, don't know why, I quite enjoyed it"},
+Sentiment: Negative (1.58% confidence)
+
+Review: {'quotes': 'Decades after being launched into space, a space probe containing information about the human race and a map to earth is found by four aliens that make up the \'Galactic council\'. They debate on whether to destroy the earth or make humanity a member of the council, instead relying on \'Standard galactic protocol\' to decide. They will give one Human (Chosen at random) the ability to do absolutely anything they want. After ten days, if the powers have been used for good, the Aliens will spare earth and make humanity a member of the council. If the powers are used for evil, the earth will be destroyed for the moral improvement for the galaxy. The human is chosen and revealed to be Neil Clarke (Simon Pegg) a secondary school teacher who is both struggling with his jobsworth headmaster, Mr Robinson (Eddie Izzard) and with his lack of a girlfriend, although he has a crush on author agency employee, Catherine West (Kate Beckinsale), who lives underneath him in the apartment block. At first, oblivious to the powers he has, Neil accidentally causes an alien spaceship to destroy a classroom within the school, killing the entire class in the process. The galactic council scolds the alien that blew up the classroom, who responds by saying that out of the millions of species the council has evaluated, none have ever passed and have all been destroyed. Perplexed and anxious, Neil goes home and slowly realises he can do anything after causing his dog, Dennis\' waste to clean itself up, and causing spilt whisky to flow out of the drain and back into the bottle. He asks that "everyone who died come back to life" and unknowingly causes everyone who has ever died ever to be resurrected, resulting in a zombie apocalypse, he reverses this and asks that the explosion never happened, sending himself back in time to the previous day. He then confirms his suspicions by causing the PE teacher Miss Pringle (Emma Pierson) to worship his friend, Ray (Sanjeev Bhaskar) whereas before, she was repulsed by him. Over the coming days, Neil uses his power for personal gain by giving himself a more muscular body, increasing his penis size, making Mr Robinson be nice to him and giving Dennis the ability to speak (Voice of Robin Williams). With his newfound powers he can do anything, however he needs to be careful for what he wishes for...\n\nPeter Bradshaw, writing in The Guardian awarded the film 1/5 star, and said "cheap and cheerless sci-fi comedy. There\'s a blue-chip cast here, and it\'s directed by Terry Jones; the Pythons have cameos, as creepy alien creatures. But this low-budget Brit film is just depressing, a sub-Douglas Adams sci-fi comedy which looks like mediocre kids\' TV with a dismal script and cheap\'n\'cheerless production values. A huge amount of talent here. Sadly it goes nowhere." James Mottram, writing for The List, also awarded the film 1 star, and said "Simon Pegg and Kate Beckinsale head up an awful sci-fi comedy from Terry Jones. It\'d be very sad if this is the last Python collaboration to hit screens."\n\nAs the general reviews states, this is a pretty poor "sub-Douglas Adams" sci-fi comedy that has not much to offer despite a starstudded cast with the \nMonty Pythons, Simon Pegg, Kate Beckinsale, Robin Willams etc. You´d think nothing could go pearshaped with all of them onboard, but sadly everything goes pearshaped. The plot is pretty ridiculous with some philosophical rant attached to it, the acting goes up and down, the comedy is pretty low in its humour, the CGI hardly up to scratch and everything feels so low budget which hardly helps the film. Yes, there are some scenes that actually works, but those ones are too few. And yes if you read between the lines there´s interesting topics such as moral, ethics, how to handle power, love etc, but it´s not handled in a very good nor entertaining way. And the whole ending is just cringe worthy. Nah, despite the fact that I do like Kate Beckinsale, the late and great Robin Willams and the Monty Pythons, "Absolutely Anything" just needs to be forgotten.'},
+Sentiment: Negative (1.84% confidence)
+
+Review: {'quotes': 'Simon Pegg + Monty Python + Robin Williams = a royal mess. Damn. What an absolute shame: a wasted gathering of some primo comedic talent and saddling them with a lazy, connect the dots script plays nicely as a pedantic Disney-style feature, ... except for the f-bombs, and a tasteless dick joke. What the hell?\n\nToo bad, too, too bad. No really, this is bad.\n\nNice premise: an everyday bumpkin gets the magical power to do, wait for it ... absolutely anything! Fun right? Was fun. Was called "Bruce Almighty". Still, could\'ve been alright with that zany British humour on board, and no matter what Pegg is saddled with, he is an enjoyable screen presence. Yet the jokes miss, there\'s no riveting storyline - an achievement when aliens (a reunited Monty Python gang), a talking dog (Robin Williams\' final hurrah), and the end of days are involved.\n\nEdit the naughty adult bits out (which add absolutely nothing anyways), and go straight to kiddie video. Please.\n\n- hipCRANK'},
+Sentiment: Positive (57.01% confidence)
+
+Review: {'quotes': "Frustrating watch, lacks common sense, leaves shouting at the screen. Frankly I couldn't find it in me to seat through it all. WASTE of time."},
+Sentiment: Positive (100.00% confidence)
+
+Review: {'quotes': "LOVE this movie!!   Didn't know anything about it - watched it and then watched it again and again -- SO much fun!!"},
+Sentiment: Positive (99.24% confidence)
+
+Review: {'quotes': 'Similar to Bruce Almighty with some funny sequences.'},
+Sentiment: Positive (53.22% confidence)
+
+Review: {'quotes': "Je ne m'attendais à rien tellement les critiques sont cons, mais Simon Pegg, les Monty Python, et le dernier role de Robin Williams ont brillamment su apporter cette touche anglaise indispensable à ce type de comédie grasse et simpliste."},
+Sentiment: Positive (98.53% confidence)
+
+Review: {'quotes': "An unoriginal idea that could've been a lot of fun but sadly falls flat through bad acting, many weak jokes, slow pacing and generally bad directing. I honestly expected a lot more from all the comedic talent gathered in this film."},
+Sentiment: Positive (99.95% confidence)
+
+Review: {'quotes': "I actually thought this was quite funny. Good film to watch if you just want to zone out. The talking dog is hilarious (Robin Williams), so I think they should have had more of him in it. I laughed quite a few times, which is hard to achieve in itself. The acting is as good as you would expect from a film like this. The only part I didn't like was the crazed teacher who was obsessed with Ray. A familiar case with their familiar humour, definitely worth watching if you want to take your mind of normal boring life."},
+Sentiment: Positive (100.00% confidence)
+
+Review: {'quotes': "Absolutely Anything boasts plenty of laughs and the late Robin Williams steals the show in a posthumous vocal performance as Dennis the Dog but these unfortunately can't save it from its disappointingly brief run time, effects and CGI aliens which don't look that great and the fact that this film is simply nothing but a British science fiction remake of Bruce Almighty with aliens rather than God. The moral of the story is: Don't fix what ain't broke."},
+Sentiment: Positive (99.71% confidence)
+
+Review: {'quotes': 'Really Enjoyable film and well worth a watch'},
+Sentiment: Negative (39.34% confidence)
+
+Review: {'quotes': 'Most of it is really funny and the talking talk was just hilarious. But all in all, absolutely anything is not especially fantastic or remarkable.'}
+Sentiment: Positive (99.80% confidence)
+
+Review: {'quotes': "Kind of odd but also kid of good in a bad way. Pegg was good, Beckinsdale was bland. The SFX were spot on. Some of the comedy was kinda crude rude and vile and then sometimes it veered into kiddy territory. It didn't know what it wanted to be"},
+Sentiment: Positive (60.91% confidence)
+
+Review: {'quotes': 'Considering the cast I expected greatness. Disappointing and weak.'},
+Sentiment: Negative (0.00% confidence)
+
+Review: {'quotes': 'Another solid comedy from the people that brought us Monty Python.'},
+Sentiment: Positive (99.98% confidence)
+
+Review: {'quotes': 'A waste of plot briefly saved by a few laughs!'},
+Sentiment: Positive (100.00% confidence)
+
+Review: {'quotes': "A pretty terrible movie.  Most gags didn't raise a laugh, although the odd one landed.  Pegg was good as ever but was let down by an absolutely terrible attempt at a comedy movie.  The only saving grace for me was him and his dog Dennis, Robin Williams was perfect choice for the voice.  I had wondered why I had never heard of this movie....then I watched it and fully understood why!!"},
+Sentiment: Positive (53.74% confidence)
+
+Review: {'quotes': "Awful it was like watching a children's film with adult themes. The acting was wooden and a lot of scenes were reminiscent of advertisements especially the scene with the aliens which seemed to have been directly lifted from a toilet cleaner commercial."},
+Sentiment: Negative (10.58% confidence)
+
+Review: {'quotes': 'Dennis and Simon are hilarious'},
+Sentiment: Negative (18.91% confidence)
+
+Review: {'quotes': "Well, it certainly wasn't bad enough to get an 8 percent fresh rating. Not great, but Simon Pegg is amusing enough, as are the Pythons voicing the aliens (Robin Williams, though, as the voice of Dennis the dog is flat). The biggest flaw is the failure to have Pegg's character do much of anything with his infinite powers."},
+Sentiment: Positive (99.91% confidence)
+
+Review: {'quotes': 'Absolute rubbish. Not funny at all. Must have been made as some kind of tax dodge.'},
+Sentiment: Negative (5.45% confidence)
+
+Review: {'quotes': 'Not as funny as I thought'},
+Sentiment: Negative (6.01% confidence)
+
+Review: {'quotes': "The trailer of this movie can captivate the interest of the spectator because it leaves the impression that this movie is more funny than it really is, however this movie doesn't raise the expectations. Simon Pegg gives one of its worst performances in its career. The script is awful, the jokes are stupid and without any type of humour, and sometimes become stereotyped, the narrative is predictable and the story is cliched, so don't waste your time watching this movie. Time is precious."},
+Sentiment: Positive (94.88% confidence)
+
+Review: {'quotes': "The trailer of this movie can captivate the interest of the spectator because it leaves the impression that this movie is more funny than it really is, however this movie doesn't raise the expectations. Simon Pegg gives one of its worst performances in its career. The script is awful, the jokes are stupid and without any type of humour, and sometimes become stereotyped, the narrative is predictable and the story is cliched, so don't waste your time watching this movie. Time is precious."},
+Sentiment: Positive (94.88% confidence)
+
+Review: {'quotes': 'An excellent cast wasted on an uninspired, largely unfunny movie. A shit Bruce Almighty clone without any of the laughs.'},
+Sentiment: Positive (99.91% confidence)
+
+Review: {'quotes': "With such an array of comedic actors, this film falls pretty flat. Nothing clever at all about it, in fact it's catered for those who who like simple laughs, which in my mind doesn't fit with people like Monthy Pythom or Simon Pegg. Could have and should have been a lot better."},
+Sentiment: Positive (61.27% confidence)
+
+Review: {'quotes': "So stupid that it's enjoyable."},
+Sentiment: Negative (0.67% confidence)
+
+Review: {'quotes': 'Similar to picking up the pieces, been done before in one form or another but it still made me laugh in places .'},
+Sentiment: Negative (1.70% confidence)
+
+Review: {'quotes': 'So, a film for kids.'},
+Sentiment: Positive (82.04% confidence)
+
+Review: {'quotes': "Yes, it's a weak Monty Python reunion. As Jones directed films go, I liked this better than Eric The Viking. Simon Pegg and Kate Beckinsale help.  So liking this film hinges on liking the stars."},
+Sentiment: Positive (99.99% confidence)
+
+Review: {'quotes': 'This movie is very funny one, i request the critics to judge this movie as a comedy movie but not some Oscar winning material. Thank you. :)'}
+Sentiment: Negative (0.86% confidence)
+
+Review: {'quotes': "Bloody critics. 8%, while elsewhere it's a hit. Yes, it's extremely silly, but what else would you expect with all the living Pythons (first time since 1983) Simon Pegg  and Eddie Izzard in the same movie. Oh, and it's the last film that Robin Williams ever did. This is a must watch film, but just do't expect any Oscar winning performances, except from the dog."},
+Sentiment: Positive (98.83% confidence)
+
+Review: {'quotes': '"Give me a really big d*ck! Ouch! Not "THAT" big! Obviously! Return to your old size! Let me have a d*ck that women find exciting! Yeah, that\'s better. Could I have it white?"\n\nWhat to expect from a comedy with lots of famous comedians ? They managed to persuade the full Monty Python crew to do the voices of aliens that form a kind of intergalactic council. The fact that Terry Jones sat in the producer\'s seat also helped, I guess. Simon Pegg plays the leading role as Neil. And you can hear the late Robin Williams in one of his latest achievements as the hyper-kinetic dog Dennis. Joanna Lumley and Rob Riggle were assigned respectively the most restrictive and the most annoying part. And finally Kate "Stonehearst Asylum" Beckinsale plays the part of the beautiful neighbor who\'s adored by Neil. What the hell can go wrong with such cast?\n\nIn many ways this film can be compared with "Bruce Almighty". Although the latter was superior in all areas. Even though I\'ve seen "Bruce Almighty" so many times, I can\'t resist watching it again every time I come across it while surfing the television channels. I\'m afraid I\'d skip "Absolutely anything" when I do. Just like Bruce, Neil got God-like powers at some point. So whatever he wishes, he can make possible just with a simple hand movement. However, this time it\'s not God who took care of that, but some belligerent space creatures from another galaxy. They plucked the Voyager, with an instruction tablet on it how to reach us, out of space. Initially earth would be destroyed. Eventually, this destruction is deferred and the humans are given the chance to prove that they are a superior race. And yes, our good friend Neil is the chosen one.\n\n"Absolutely anything" is the complete opposite of "The World\'s end" (another movie featuring Simon Pegg) in terms of development. "The World\'s End" first 15 minutes weren\'t particularly inviting. But as the film progressed, it became an amusing, hilarious film full of absurdities. "Absolutely anything" begins terribly funny with various comic and silly situations. But after a while the gimmick with the waving hand of Neil wasn\'t that funny anymore and from there on it all went downhill. Eventually it ends up as a trite, irritating and predictable slapstick. Even Robin Williams and the entire crew of Monty Python couldn\'t save it. Perhaps the hopping little turd at the beginning was a sign.\n\nThis may sound a bit too critical. It isn\'t all that bad. The extraterrestrial board has its funny moment (but don\'t expect Monty Python situations). The antics Neil has to undergo whenever he wishes something again, made me laugh regularly. The personal transformation, the classroom scene, the headmaster and the devotion to his colleague Ray, just to name a few. Strange though that Neil, as an English teacher, knows his grammar well when standing in front of the class, but when he\'s using his powers, the wisdom of the correct formulations is lost. Dennis the dog looks cute and cuddly and the improvisations of Robin Williams make it a personality. Hilarious sometimes. But it feels as if Williams worked within the lines of the script. Had they given him more improvisation space, it might have been funnier. And fortunately, the romantic theme wasn\'t developed extensively. All in all a relaxing and sometimes funny film. There are some lame jokes and an annoying American, but British humor and some absurd twists here and there, ease the pain. The most sad part of this film is the fact that it\'s the last film with Robin Williams starring in it.},
+Sentiment: Negative (0.11% confidence)
+
+Review: {'quotes': "It's not as bad as everyone says: it has nice moments - in fact, it feels like a series of moments rather than a fully rounded story. It is basically a British Bruce Almighty, and it does have fun with the ideas - but there's not much to it. It's silly, inoffensive nonsense."},
+Sentiment: Negative (2.14% confidence)
+
+Review: {'quotes': 'A bit similar to "Bruce Almighty"'},
+Sentiment: Negative (0.24% confidence)
+
+Review: {'quotes': "A waste of craploads of talent behind and in front of the camera ...I honestly can't believe the people involved could make something this bland"},
+Sentiment: Positive (99.83% confidence)
+
+Review: {'quotes': 'Utter garbage, and so disappointing. In truth, this was barely even a film.'},
+Sentiment: Negative (4.62% confidence)
+
+Review: {'quotes': 'An interesting concept done by Terry Jones of Monty Python fame.  The movie is enjoyable but very predictable.'},
+Sentiment: Positive (99.93% confidence)
+
+Review: {'quotes': 'Pegg is good, although not the best he could be. Being funny in its own way, Absolutely Anything occupies a weird space in comedy where a few may enjoy.'},
+Sentiment: Negative (0.00% confidence)
+
+Review: {'quotes': 'Kai omos mporouse na itan mia komodia 5 asteron! Mou arese kai gelasa. Iparxoun omos kapoia diastimata kai kapoies skines pou den xreiazontan katholou. Kali komodia pou ixe polles prooptikes :)'},
+Sentiment: Positive (88.48% confidence)
+
+Review: {'quotes': 'Despite a few giggling moments, this British "Bruce Almighty" fails on so many levels.'},
+Sentiment: Positive (50.37% confidence)
+
+Review: {'quotes': "Not the great lord Pegg's best work granted, but had some good laughs. Pegg is watchable as always, the Python boys are a hoot and Robin Williams is good value in a relatively small part. I think Beckinsale was rather miscast tho, can't see someone that glamorous falling for Pegg's character. Still it made me laugh quite a lot!"},
+Sentiment: Positive (97.58% confidence)
+
+Review: {'quotes': 'I had high expectations for this film. The cast incudes Pythons members and Simon Pegg which seemed very promising indeed. However the promises were cruelly dashed. It is a dreadful film. It is terribly cliched and puerile.  It is hard to believe that such champions of comedy could be associated with such asinine  tripe.\nA crushing disappointment.'},
+Sentiment: Positive (99.99% confidence)
+
+Review: {'quotes': 'Started well and you would expect better when you have all the python crew at your disposal, went silly and downhill fairly quickly'},
+Sentiment: Positive (95.72% confidence)
+
+Review: {'quotes': "J'aime Simon Pegg, mais là c'était juste mauvais"},
+Sentiment: Positive (89.47% confidence)
+
+Review: {'quotes': 'Absolutely silly. Not the worst movie but does not live up to its potential. There were some laugh out load moments'},
+Sentiment: Negative (18.10% confidence)
+
+Review: {'quotes': 'Monty Python legend Terry Jones delivers something closer to the Farrelly Brothers and Adam Sandler than Python, and guess what - it\'s hilarious. Pegg works wonders, but you\'ll wish the concept had been pushed further, that there was more to the Pythons\' \'reunion\'. It\'s paced and styled like a children\'s film, with touches of Pythonesque nastiness that surface at odd moments. In the plus column there\'s a small handful of decent gags, a clutch of welcome cameos (Eddie Izzard, notably) and at 85 minutes it doesn\'t outstay its welcome. Sadly Robin Williams - in one of his final screen roles - does his best as the voice of Dennis the Dog, but despite some interesting revelations about tummy-tickling, the canine is severely lacking in one-liners, the performance a pale imitation of his wise-cracking work in Aladdin. It is a very silly, eccentric British film with comedy coy enough to suit the whole family and Python devotees who will see it out of duty. Absolutely Anything takes us on a fun ride through space and gives us a look at one simple man\'s struggle to do the right thing with infinite power. While it may not win any awards this season it will, at least, give you a few laughs. Absolutely Anything is a comic treat, especially for those of us who grew up with the Pythons. It\'s terrific to hear those unmistakable voices again.\n\nVERDICT: "High-Quality Stuff" - [Positive Reaction] This is a rating to a movie I view as very entertaining and well made, and definitely worth paying the full price at a theatre to see or own on DVD. It is not perfect, but it is definitely excellent. (Films that are rated 3.5 or 4 stars)'},
+Sentiment: Positive (100.00% confidence)
+
+Review: {'quotes': 'An extremely profound analysis of the limits of human morality. Not. It just sucks.'},
+Sentiment: Positive (83.86% confidence)
+
+Review: {'quotes': "It was almost completely rubbish, there was potential but they used it for the worse. It could've been a very entertaining movie yet it was an absolute vulgar children movie. Such a waste."},
+Sentiment: Positive (99.91% confidence)
+
+Review: {'quotes': "Absolutely Nuts\n\nA group of aliens decide to put the fate of the world in the hands of one random guy by giving him the power to make anything happen as a test towards predicting the values of humanity.\n\nBritish writer/director Terry Jones, known for his work with the hilarious Monty Python comedy group, returns with his first feature film in 19 years for Absolutely Anything, and it's absolutely perfect absurdity. From a hilarious talking dog to a series of unpredictable gags ranging from walking turds to the accidental annihilation of an entire classroom of kids, the film's unpredictable humor is completely nuts. But like a fine mix of chocolate-covered nuts, Jones makes sure none of the jokes ever become mean-spirited, ensuring the film maintains some refined substance through its mostly lighthearted antics. Just don't expect the same style of humor seen in his '70s comedic masterpiece Monty Python and the Holy Grail.\n\nNow I won't try and bring your hopes up with empty promises, considering this flick is far from being award-worthy. Any forms of deep character development or profound script elements are instead replaced with an extra dose of silly gags, but at least they're funny enough to justify their existence. Full of unexpected wit that cleverly mixes its comedic styles, Absolutely Anything had me laughing from start to finish. Obviously Simon Pegg deserves some recognition for this, considering he's the one that allowed the far-fetched situations come to life with impeccable comedic timing. The best parts are, of course, the trial and error associated with Pegg trying to figure out how to properly use his powers without having them hilariously backfire in his face. What will surprise audiences the most, however, is the fantastic voice work brought to Pegg's lovably annoying pet dog by none other than the late legend himself, Robin Williams. It's a little bittersweet considering it's his final roll, but it certainly comes with great pleasure to say it's a memorable one.\n\nThankfully I never bothered checking out the film's Rotten Tomatoes rating before watching it, because it's exceptionally low 8% critic approval might have persuaded me not to give it a chance. How the undeniably pointless Stan-Helsing or Kevin Smith's unfunny detective comedy Cop Out managed to get higher critic approval scores is beyond me. Maybe it's time people adjust the tracking on their VCRs and take the time to actually watch things clearly. Wait... People don't watch VHS tapes anymore? Oh... Well I guess we can't really blame the picture quality now can we? Hum... Perhaps my taste in movies has just relinquished in quality over the years? Or maybe my sense of humor just belongs in a Saturday morning cartoon? Either way, I'd like to think I'm not the crazy one."},
+Sentiment: Positive (99.93% confidence)
+
+Review: {'quotes': "Sounds like fun? Let me assure you, it ain't."}
+Sentiment: Positive (99.99% confidence)
+
+Review: {'quotes': 'Not funny and just to silly to enjoy'},
+Sentiment: Negative (14.33% confidence)
+
+Review: {'quotes': 'Absolutely Anything (2015) is a comical film featuring Simon Pegg, Kate Beckinsale, and Robin Williams. This film wasn\'t anything really special from other films like this for example "Bruce Almighty" but it was a good laugh. I enjoyed the twist they put on the story and of course I love the cast as some of them are in my list of favorite actors and actresses. They did do a great job with the story idea, the line-up, and just about all that you could expect to be good was. Im not sure what else I can point out without giving away anything about the film to spoil it, so I will leave is simply as the movie is well worth checking out especially if you\'re a fan of this genre.'},
+Sentiment: Negative (0.00% confidence)
+
+Review: {'quotes': "Review:\nThis movie is more silly than funny! For a comedy, I didn't laugh once through the whole movie and I found a lot of the scenes far fetched and badly written, which is surprising from Terry Jones. Its about a bunch of Aliens, voiced by Monty Python, who choose one random human to prove if they can understand the difference between good and evil. The Aliens give this human, which turns out to be Neil (Simon Pegg), the powers to do absolutely anything and if he chooses to do evil, the Aliens will eliminate earth. If he chooses to do good, the Aliens will welcome earth to the intergalactic community so it's up to Neil to save earth. Neil, whose a teacher for a disruptive class, soon realises that he has these powers but everything that he does with them, has catastrophic effects. He tries to help his friend at work, Ray (Sanjeev Bhaskar), by getting another teacher to worship him but she turns out to be psychopath. He also uses his powers to get a lady in his building, Catherine (Kate Beckinsale) to like him but her ex-boyfriend, Grant (Rob Riggle), visits her from America and he uses is soldier tactics to try and win her back. Neil then makes his dog Mojo, voiced by Robin Williams, able to talk and he fights of Grant, who attempts to fight Neil for Catherines love but when Grant finds out about his powers, he kidnaps Neil so he can get everything that he wants. Whilst holding a gun to Mojo's head, Neil reads through Grants list of demands and then Neil is saved by Catherine and Ray but the Aliens are not happy with what Neil done with his 10 days with ultimate power. The Aliens then decide to destroy earth but Neils last wish just happens to be the best one that he makes, ever since he received the powers. I really tried to find the amusing side to this movie but I just couldn't get into it. The Aliens were slightly funny, especially when they were speaking in there weird language but apart from that, I just couldn't see the point of the film. The things that Simon Pegg was doing with his unlimited powers, were really ridiculous and no one seemed that amazed about the whole ordeal. I know that you have to take this type of movie with a pinch of salt but when the humour isn't that funny, it's really hard to find anything good to say about the film. Disappointing!\n\nRound-Up:\nThis was Robin Williams last movie, which he voiced using Skype, so no one actually got to see him properly. His voiced isn't used in the movie that much, which is a shame because the dog is one of the best things in the film along with the weird looking Aliens. Anyway, this film was directed by Terry Jones, 73, who brought you the all time classics, the Holy Grail, Life of Brian and the Meaning of Life, which were all made with the Monty Python. He also supplied his voice as one of the Aliens and he wrote this movie alongside Gavin Scott so he really did give this movie his all. He was lucky to get Simon Pegg to play the lead because he has been quite busy making movies like Mission Impossible: Rogue Nation, Star Wars: The Force Awakens, Star Trek Beyond and Ice Age: Collision Course so this 45 year old has big things to come. As for this movie, I doubt that it will go down well with a big audience because of its warped type of humour. Personally, I think that a lot of the cast took on the project just to work with Terry Jones, not caring about the final outcome, so on that basis I'm not surprised that he got such a great cast. Anyway, Kate Beckinsale looked terrific and the dog was funny when it was talking but thats about it.\n\nBudget: N/A\nWorldwide Gross: $3.8million\n\nI recommend this movie to people who are into their sci-fi/comedies starring Simon Pegg, Kate Beckinsale, Rob Riggle, Eddie Izzard, Joanna Lumley and voices by Robin Williams, John Cleese, Terry Gilliam, Eric Idle, Michael Palin and Terry Jones. 3/10"},
+Sentiment: Positive (91.60% confidence)
+
+Review: {'quotes': 'Bruce Almighty gets a British redo. So that\'s what it\'s like when a property gets a foreign treatment. Now we can understand what the Brits complain about when we "borrow" their stuff. Many good talents absolutely thrown to waste. Eh. And I\'m not mentioning at all that Monty Python is involved in this, dragging that hallowed name through the gutter of who really gives a duck.'},
+Sentiment: Positive (74.40% confidence)
+
+Review: {'quotes': "a fun and silly movie that had me laughing a few times. it seems a bit nonsensical but it's a good movie to just go with and watch. the Monty python crew were all involved and as for British comedies go, it is pretty good."},
+Sentiment: Positive (99.96% confidence)
+
+Review: {'quotes': "Little story about almighty power, when phrased correctly.\n\nThe absolute power of wish fulfillment has been connected to many beings, genie and god among others, but now even aliens can make one's wish come true. Absolutely Anything is a simple film blessed with nifty premise and charming charismatic lead in Simon Pegg. It's a light casual watch that surprisingly heartwarming and incredibly witty beyond the occasional quirky display, even though the premise doesn't have much depth. \n\nNeil (Simon Pegg) is an ordinary teacher who has been given ultimate power by a group of aliens for the purpose of judging the entire earth. The plot and cast are rather familiar, including the love interest by Kate Beckinsale along with the usual best friend and silly talking dog. It's pretty hard to fail on delivering a talking dog, especially voiced by Robin Williams.\n\nFirst and foremost, the humor is fun and fairly amusing. The script offers some ridiculous situations, often presenting these scenes for Simon Pegg to shine, and that he does. His character is utterly identifiable, wishing assortments of petty stuffs and ending up with stupid mistakes by simple poor choice of words. Some of these might feel overdone and the movie just goes for the boundary of safe route. \n\nPegg also seems like able to crate chemistry with the cast, and everyone is quite likeable, aside from a few over-the-top moments for a couple of them. The movie doesn't venture into deep thought about absolute power or the logic of bending reality, it merely a mild enjoyment with nice characters, most of whom work in platonic relationship. One extra credit for the presentation is how the visual looks sophisticated, it uses the scenery of England and the special effects fairly well.\n\nAbsolutely Anything is a much humbler film than the title suggests, it provides ample of light entertainment with a commendable performance by Simon Pegg even if the premise feels outdated towards the end. Plus, having Robin Williams again, even in doggy form is a nice treat."},
+Sentiment: Positive (89.49% confidence)
+
+Review: {'quotes': 'På trods af (stemme)medvirken fra hele det overlevende Monty Python-team samt afdøde Robin Williams er denne remake af "The Man Who Could Work Miracles" beklageligvis en ret umorsom affære. H.G. Wells roterer i sin grav.'},
+Sentiment: Positive (99.87% confidence)
+
+Review: {'quotes': 'Yeah it was absolutely awful. Zero laughs and a very thin dull story.'},
+Sentiment: Negative (0.00% confidence)
+
+Review: {'quotes': "A Monty Python reunion that doesn't do them justice. The story is ok and the movie explores themes to do with personal desire and free will. But the whole thing feels somewhat amateurish. Good to see Simon Pegg doing what he does best. Robin Williams plays a dog - the best character in the movie. I had a good laugh. But wait for the video release if you want to see this."},
+Sentiment: Positive (84.80% confidence)
+
+Review: {'quotes': "The critics reviews are really shocking on this one.  My wife and I took this in last night, and both of us were rolling.  My wife is not a fan of gross humor, let alone British humor, so I was really hesitant after the reviews.  Needless to say we had a great evening laughing at nearly every scene. The only disappointment would be that Robin Williams part didn't seem to let him improv much."},
+Sentiment: Positive (100.00% confidence)
+
+Review: {'quotes': 'Pegg needs to choose the projects carefully because this is an utter turkey, the monty python gang reunited for this? I really struggled to start or finish this train wreck. Robin Williams as the dog was the funniest part of the film which saves this from being a complete waste of time'},
+Sentiment: Negative (0.15% confidence)
+
+Review: {'quotes': 'Mediocre feebleness.'},
+Sentiment: Positive (83.22% confidence)
+
+Review: {'quotes': "So much talent, good ideas.... just ended up as utter unfunny shit.  Like a very bad kids movie with swearing.  Proving that those with the power to do anything, perhaps shouldn't..."},
+Sentiment: Positive (72.27% confidence)
+
+Review: {'quotes': 'Great Simon Pegg humor and physical comedy, love the dog :)'},
+Sentiment: Positive (98.68% confidence)
+
+Review: {'quotes': 'A movie to fall asleep to over and over. In my book, those are the only movies that are great.'},
+Sentiment: Negative (10.40% confidence)
+
+Review: {'quotes': "British comedies don't get much worse than this."},
+Sentiment: Positive (85.25% confidence)
+
+Review: {'quotes': "Absolutely Anything is not really funny per say it's silly yes that's for sure. Watch anything else cause it be better then this ridiculous movie. It shows they will make anything now a days  but what would you do if you could do Absolutely Anything is the question"},
+Sentiment: Negative (0.64% confidence)
+
+Review: {'quotes': 'Ð¡Ð°Ð¹Ñ?Ð°Ð¹ Ñ?Ð¶Ð°ÐºÐ° Ð¿ÐµÑ?ÐµÐ´ Ñ?Ð½Ð¾Ð¼! Ð?Ñ?ÐµÐ¼ ÐºÐ¾Ð¼Ñ?Ð°Ð´Ð°Ð¼ Ð³Ð¸ÐºÐ°Ð¼ Ñ?ÐµÐºÐºÐ¾Ð¼ÐµÐ½Ð´Ñ?Ñ?!'},
+Sentiment: Positive (83.22% confidence)
+
+Review: {'quotes': 'Småmorsom bortsett fra et par steder hvor den var litt teit.'},
+Sentiment: Positive (79.02% confidence)
+
+Review: {'quotes': 'A fun and cute film by ex-Monty Python Terry Jones featuring one of the last performances vocal-wise by the late Robin Williams as a dog. Suits Simon Pegg to a tee. A nice old school light comedy to kill 1 1/2 hrs.'}
+Sentiment: Positive (100.00% confidence)
+
+Review: {'quotes': 'It felt like a story meant for kids turned into a movie meant for adults.'},
+Sentiment: Positive (79.00% confidence)
+
+Review: {'quotes': 'Enjoyable, but Simon pegg deserves more than this.'},
+Sentiment: Positive (71.36% confidence)
+
+Review: {'quotes': 'If you like Simon Pegg and have a sense of humour you will really enjoy this film!'},
+Sentiment: Positive (89.19% confidence)
+
+Review: {'quotes': 'Bruce Almighty with Aliens instead of God. Less funny. Disappointing.'},
+Sentiment: Negative (0.69% confidence)
+
+Review: {'quotes': 'Such a shame... if you already watched the trailer, do not bother to watch the movie...'},
+Sentiment: Positive (93.79% confidence)
+
+Review: {'quotes': 'Not the best pegg film by far, but not to bad either thought it would have a little more to offer than what it did, a generous 3 stars'},
+Sentiment: Positive (97.25% confidence)
+
+Review: {'quotes': "Its different, not entirely what you would hope for from the concept but I don't think meeting people expectations from it would have improved things."},
+Sentiment: Negative (1.23% confidence)
+
+Review: {'quotes': 'I\'ve been looking forward to seeing this movie ever since it was first announced! Directed by Terry Jones of Monty Python, there\'s the voices of the Monty Python team and Robin Williams. Simon Pegg\'s in it! I was very excited last night when I went to the movies to watch it! The movie was just as I expected it to be. A very funny comedy with likeable and charming characters, hilarious situations they\'re put in and a story that could\'ve been handled better, but it\'s also good just the way it is. The movie\'s about a man, Neil Clarke, who is randomly selected to be the carrier of the power to do absolutely anything in the world. If he uses the power for good, the aliens won\'t destroy Earth, but if he uses it for bad purposes, then it gets blown up! The aliens are all voiced by the Monty Python team and they do a great job, although they\'re not given enough screen time and you could easily forget that they\'re even there. Simon Pegg is great in this film just as he is in many of his other films. His character is very likeable and funny. Robin Williams as the voice of Dennis the dog was okay. At times it felt like he was overacting a bit, but that\'s just what dogs do. I also have to mention Sanjeev Bhaskar who was really amusing as Roy. There are some truly hilarious scenes involving this character. The CGI was good, I\'m thankful they didn\'t go for the CGI dog thing (like in Scooby-Doo). The humour is almost constantly funny, though it gets a bit "we\'ve seen it before" near the end. Nevertheless, I had a lot of fun with this movie and I would recommend it to Simon Pegg and british comedy fans. As for those who\'re only watching it \'cause Monty Python team is in it, I think you might be dissapointed...'},
+Sentiment: Positive (100.00% confidence)
+
+Review: {'quotes': "British version of Bruce Almighty without Jim Carrey's over-acting! Decent..."},
+Sentiment: Positive (96.08% confidence)
+
+Review: {'quotes': 'I enjoyed the movie a lot. No, it is not a Monty Python master piece, but it is very entertaining, nevertheless. The jokes were funny and the story is very light. This does not need to be seen as a negative.'},
+Sentiment: Positive (99.99% confidence)
+
+Review: {'quotes': "It was funny but the only thing that could've made it better if they were to edit it nicely"},
+Sentiment: Negative (9.56% confidence)
+
+Review: {'quotes': 'Tired, run down and got a couple of hours to kill in Kuala Lumpur? Too worn out for the 12 hour Sergei Yutkevich retrospective? This is a fine alternative if you need to switch the brain off for an hour and a half. Ignore the plot holes and they will ignore you right back.'},
+Sentiment: Positive (100.00% confidence)
+
+Review: {'quotes': "I don't know whether or not I was just wrapped up in the brilliance of creativity that is Simon Pegg and the Python crew, but I loved this movie. It's nothing new, nothing really unique that hasn't been done before. But the comedy is consistent and the whole thing is a lot of fun. Genuinely a great movie to sit down and chill out with after a long week."},
+Sentiment: Positive (94.74% confidence)
+
+Review: {'quotes': "Best film I've seen for ages laughing throughout. Robin Williams as a dog-priceless!"},
+Sentiment: Positive (100.00% confidence)
+
+Review: {'quotes': 'this was a funny film'},
+Sentiment: Negative (49.53% confidence)
+
+Review: {'quotes': 'Simon Pegg returns to comedy (without Nick Frost) as he plays the humble teacher with a power from the monty Python team to do Apaolutly Anything to use for the better of the world, not as funny as usual Pegg films but It was very entertaining for anyone from the charm of the late great Robin Williams as the dumb dog meaning to help his owner but just loves biscuits, this film has very funny scenes but not extremely funny due to the age rating limited the usual Simon Pegg stuff to a minimum, Good film, nothing else'},
+Sentiment: Positive (99.27% confidence)
+
+Review: {'quotes': 'With great power comes total irresponsibility.'},
+Sentiment: Positive (99.84% confidence)
+
+Review: {'quotes': 'This movie is overlong and its jokes fall flat. Simon Pegg is great in his role but Kate is a miscast. Her beauty is not suitable here.'},
+Sentiment: Positive (100.00% confidence)
+
+Review: {'quotes': "Nice to hear Robin William's voice again, and all in all a 'nice' easy to watch movie, but I did get the feeling throughout that Terry Jones was pranking the other pythons."},
+Sentiment: Positive (100.00% confidence)
+
+Review: {'quotes': "Good moments, but nowhere near Terry Jones' masterpiece Life Of Brian. Speaking of Pythons, they were all in this movie, and extremely underused!"}
+Sentiment: Positive (100.00% confidence)
+
+Review: {'quotes': 'Quite a farce really. Some parts were unbelievable.'},
+Sentiment: Positive (100.00% confidence)
+
+Review: {'quotes': "For more reviews visit www.KalpeshPrajapati.com\n\nAbsolutely Anything as a concept has lot of potential to make people laugh and to show the impossible. This movie, however, succeeds only in the former. Absolutely anything is a movie that will be enjoyed by all generations.\n\nThis movie has got comedy for all age group. The story is kept simple and made very funny. The story remains on track and does not take time to come to the main plot. Within few moments after the movie begins, you will see that Simon has received his powers and the confusion and chaos beings on screen.\n\nThe movie begins with the Inter-Galactic team in Space receiving another message from earth which was left in space to find other life forms. The committee, first makes fun of it, then on a serious note, decide to randomly select 1 individual and give him absolute power. They will observe him for 10 days to see how he decides between good and evil.\n\nWhile on earth, Simon as Neil Clarke is a school teacher who is not liked by the headmaster (Eddie Izzard). He is randomly selected and receives absolute power. It doesn't take time for Neil to realize that he has absolute power and what follows next is lot of fun and chaos.\n\nThis movie does not waste any time to show any background of any characters and sticks to the present. All other elements of a movie i.e. Romance, stunts, thrills etc. are briefly touched upon. The movie however...Continue reading on http://kalpeshprajapati.com/2015/08/18/absolutely-anything-movie-review/"},
+Sentiment: Negative (1.95% confidence)
+
+Review: {'quotes': 'A fun movie to watch with the always funny Simon Pegg and Monty Python'},
+Sentiment: Positive (84.87% confidence)
+
+Review: {'quotes': 'Thorughly okay, The Pythons are a treat to hear and Simon Pegg is his usually quirky self (and should be applauded for his ability to act against Kate Beckinsale) I unfourtunately missed the end as I went to see Mission Impossible instead.'},
+Sentiment: Negative (1.47% confidence)
+
+Review: {'quotes': "A quirky and funny British comedy that falters by being too silly in parts and not that imaginative with the overall plot.  Some funny moments and a great performance by the dog, but the rest is mediocre at best, and it doesn't really know how it wants to end."},
+Sentiment: Positive (98.93% confidence)
+
+Review: {'quotes': 'I think Kate Beckinsale needs to be more selective about which films she wants to do.'},
+Sentiment: Negative (0.00% confidence)
+
+Review: {'quotes': 'Simple plot but hilarious.'},
+Sentiment: Positive (76.96% confidence)
+
+Review: {'quotes': 'Well I atualy liked this film. It was silly so about what you would expect from a terry jhones film.yep the story is basicly Bruce almighty! There are no Oscar winning performances and robin Williams voice over dose feel unfinished.still I enjoyed it :)'},
+Sentiment: Negative (0.00% confidence)
+
+Review: {'quotes': "If you've seen the trailer to this film and laughed, then you'll love the whole thing. Brilliant guilty pleasure this one, and the voice of the hilarious but late Robin Williams is a bonus."},
+Sentiment: Negative (30.31% confidence)
+
+Review: {'quotes': 'Whilst it does have an abysmally slow start, absolutely anything saves the day with some classic, good feeling, warm British humour and even some suspense to what the film has to end with.'},
+Sentiment: Negative (13.60% confidence)
+
+Review: {'quotes': 'Somehow funny but to much generous and sensless. It has it\'s moment but not enought to be unforgettable. Anyway, go watch for cute dog dubbed by Robin Williams. He steals the show with one adorable bark "HOW".'},
+Sentiment: Negative (0.01% confidence)
+
+Review: {'quotes': "It's a feel good movie, don't let critics whom rate stupid movies well. Go see it, loads of fun , you won't regret it!"},
+Sentiment: Positive (95.32% confidence)
+
+Review: {'quotes': 'Daft but watchable . Will give you a few sniggers'},
+Sentiment: Positive (70.46% confidence)
+
+Review: {'quotes': "Le fait de revoir les Monty Python au cinéma, dirigés par Terry Jones himself, pouvait être assez encourageant. Avoir Simon Pegg et Rob Riggle au casting aussi. Pourtant, Absolutely Anything est une comédie inoffensive, clairement mal rythmée dans l'ensemble, jamais réellement originale mais furieusement drôle par moments, grâce à une créativité que l'on ne retrouve quand dans la première heure. A l'image de Bruce Tout-Puissant, c'est dans la deuxième partie que le film pêche, avec une volonté de résolution d'une intrigue absolument inintéressante. C'est dommage, car Simon Pegg, Kate Beckinsale, Rob Riggle et surtout Robin Williams font le boulot. Mais on est clairement en présence d'un film qui a près de 20 ans de retard."},
+Sentiment: Negative (0.27% confidence)
+
+Review: {'quotes': "I really wanted to enjoy this film and can't exactly put finger on where it went wrong... But it's awful. All the pieces are there, the ideas, the cast... But it just fails at every turn."},
+Sentiment: Negative (3.82% confidence)
+
+Review: {'quotes': "This was a movie that I thought had a lot of comedic possibility (even if the story t did sound a bit like Bruce Almighty) and with a guy like Terry Jones as the writer and director of it, I was intrigued. However, it turns out to be a pretty dull story, the script is not that well-written,  the characters are dull and bland, the designs of the aliens are hideous, and it's a movie that didn't have as many jokes as I hoped, it didn't take advantage of the opportunity's that it had with a story like this, and many of the jokes didn't turn out to hit the mark."},
+Sentiment: Positive (55.55% confidence)
+
+Review: {'quotes': "Absolutely Shite is what it should have called. One of the most tedious movies I have seen. Please don't watch."},
+Sentiment: Negative (1.32% confidence)
+
+Review: {'quotes': 'Had the potential to be so much better \nRobin williams \nPython \nPegg \nBeckinsdale \n\nFunny bits'},
+Sentiment: Positive (96.75% confidence)
+
+Review: {'quotes': 'Not bad, but tries too hard in places to be funny'}
+Sentiment: Positive (97.74% confidence)
+
+Review: {'quotes': 'Was looking forward to watching this, as it had so much potential and I thought I would ignore the reviews.\n\nBut, I was wrong, it had some funny parts and some enjoyable parts, but the main character was just so stupid. How could anyone mess up that badly? If I had those powers and truly could do absolutely anything, I would unstoppable.'},
+Sentiment: Positive (96.39% confidence)
+
+Review: {'quotes': "After Simon Pegg became a worldwide known actor he didn't really do many British films so this was a nice little suprise, Ok yeah it's silly and rushed but it's pretty good and funny with a simple plot and an easily likeable cast, The film itself felt like a family film but it has small bits of adult humour so not really a family film, It's easy to watch and enjoy but nothing memorable but it's nice to see Simon Pegg doing a British film again."},
+Sentiment: Negative (6.32% confidence)
+
+Review: {'quotes': 'Really enjoyed this, it was a bit stupid but such a clever idea and so many funny parts. Main characters were both really likeable.'},
+Sentiment: Positive (99.79% confidence)
+
+Review: {'quotes': "Over the top but brilliant the whole way through from Simon Pegg's character Neil to Robin Williams' Dennis the Dog. Neil is given the chance by Aliens to save his planet by using the powers for good and if he uses them for evil its bye bye humans. The rest of the film builds on that premise by having Dennis the Dog talk who ended up being my favourite character of the film...a romance building between Neil and neighbour Catherine (Kate Beckinsale) and her crazy stalker Grant (Rob Riggle) who was one of the other great characters in this film. Also the voices of the Monty Python guys as the Aliens was awesome too. Critics were wrongly harsh on this film as it was a great piece of entertainment"},
+Sentiment: Positive (99.99% confidence)
+
+Review: {'quotes': 'Wait until after the first part of the credits for a little tribute to Robin.'},
+Sentiment: Negative (38.19% confidence)
+
+Review: {'quotes': "Not entirely deserving of the absolute thrashing the majority of critics are giving it, but, with all the talent involved, it is a disappointment, and it isn't funny enough to overcome its apparent lack of a purpose outside of that."},
+Sentiment: Positive (99.96% confidence)
+
+Review: {'quotes': 'The last thing by Robin Williams :('},
+Sentiment: Negative (31.71% confidence)
+
+Review: {'quotes': "Yes it's silly, often in a bad way, but it's fun too - just not what it could have been."},
+Sentiment: Negative (16.67% confidence)
+
+Review: {'quotes': 'bad comedy but neat to see the actual effect of changes or wishes made not just the wish itself.'},
+Sentiment: Positive (100.00% confidence)
+
+Review: {'quotes': 'While I don\'t think it\'s "One of the worst movies ever made", or "appalling", as some critics have said. But I must say that I was really disappointed with Absolutely Anything, because I had such high hopes for this movie to be great just by the cast behind the movie and the director, but it didn\'t reach my expectations has I wanted. What\'s more sad is that this is the very last Robin Williams performance (He voices the dog in the movie).\n\nNot once did I laugh or even smile. It was very predictable and not that original when it comes to the story. Simon Pegg dose make a likable main character and Robin Williams dose a great job voicing the dog named "Dennis". But what\'s more crushing is that The Monty Python crew were involved in making this movie, because they wrote it, stared in it and one of them directed it.\n\nOverall Absolutely Anything isn\'t awful, but nowhere near great or good.'},
+Sentiment: Positive (99.97% confidence)
+
+Review: {'quotes': 'Definitely a Monty Python flick poking fun at the family sci-fi flick formula resulting in laughable mishaps and attempt to teach in ideological communication, alongside the unbalanced decent mediocrity across some aspects through the performances and plainly ridiculous plot points. (B)\n\n(Full review TBD)'},
+Sentiment: Negative (5.21% confidence)
+
+Review: {'quotes': 'So much talent.......wasted.'},
+Sentiment: Positive (99.88% confidence)
+
+Review: {'quotes': "It's been a while since a film disappointed me this much. It has several genuinely funny gags, but it has almost no structure and is incredibly repetitive. When a film has Simon Pegg, Eddie Izzard, all 5 remaining members of Monty Python, and the voice of the late great Robin Williams, it should be a comedic masterwork. Instead, we get a movie that is often charming, but only occasionally funny."}]
+Sentiment: Positive (100.00% confidence)
+
